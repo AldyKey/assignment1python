@@ -1,0 +1,10 @@
+Python 3.9.7
+
+HTTP library: Requests
+import requests
+
+Reading From JSON
+import json
+
+
+
